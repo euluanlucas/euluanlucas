@@ -11,13 +11,13 @@
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/lp/1000bolsasifood)
 
-👩‍💻 Atualmente eu trabalho como [Designer] @ [Starling](https://www.instagram.com/starlingplacas/)
+👩‍💻 Atualmente eu trabalho como [Designer] na [Starling](https://www.instagram.com/starlingplacas/)
 
 🔎 Também sou curioso sobre [Musica]
 
 ✒️ Eu gosto de no meu tempo livre [Estar ouvindo musica];
 
-📚 Lendo: [Profecias do pai rico ]
+📚 Lendo: [De pai para filha](https://www.amazon.com.br/Pai-Para-Filha-Harry-Harrison/dp/9724412172)
 
 ### Eu já trabalhei com... Versionamento de codigo para uma aplicação 🔧
 
