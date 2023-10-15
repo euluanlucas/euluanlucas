@@ -11,7 +11,7 @@
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/lp/1000bolsasifood)
 
-👩‍💻 Atualmente eu trabalho como [Designer] na [Starling](https://www.instagram.com/starlingplacas/)
+👩‍💻 Atualmente eu trabalho como [Designer](https://pt.wikipedia.org/wiki/Designer_gr%C3%A1fico) na [Starling](https://www.instagram.com/starlingplacas/)
 
 🔎 Também sou curioso sobre [Musica]
 
