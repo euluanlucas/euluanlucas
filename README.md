@@ -4,7 +4,7 @@
 
 ### Sou Designer Gráfico e Programador 
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack](https://pt.wikipedia.org/wiki/Front-end_e_back-end#Back-end)
+💻 Eu sou um desenvolvedor [| Back-End |](https://pt.wikipedia.org/wiki/Front-end_e_back-end#Back-end)
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
