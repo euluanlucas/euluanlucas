@@ -1,5 +1,3 @@
-# academy-template-readme-profile
-
 # Oi, me chamo [Luan Lucas](https://www.linkedin.com/in/euluanlucas/) 👋
 
 ### Sou Designer Gráfico e Programador 
