@@ -15,7 +15,7 @@
 
 🔎 Também sou curioso sobre [Musica](https://pt.wikipedia.org/wiki/M%C3%BAsica)
 
-✒️ Eu gosto de no meu tempo livre [Estar ouvindo musica];
+✒️ Eu gosto de no meu tempo livre [ouvir musica](https://pt.wikipedia.org/wiki/M%C3%BAsica);
 
 📚 Lendo: [De pai para filha](https://www.amazon.com.br/Pai-Para-Filha-Harry-Harrison/dp/9724412172)
 
@@ -63,7 +63,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/lbguilherme">
+<a href="https://github.com/euluanlucas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
