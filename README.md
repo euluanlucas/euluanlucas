@@ -13,7 +13,7 @@
 
 👩‍💻 Atualmente eu trabalho como [Designer](https://pt.wikipedia.org/wiki/Designer_gr%C3%A1fico) na [Starling](https://www.instagram.com/starlingplacas/)
 
-🔎 Também sou curioso sobre [Musica]
+🔎 Também sou curioso sobre [Musica](https://pt.wikipedia.org/wiki/M%C3%BAsica)
 
 ✒️ Eu gosto de no meu tempo livre [Estar ouvindo musica];
 
